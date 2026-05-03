@@ -60,6 +60,6 @@ To reset to your defaults, delete `questions.json` and restart the app.
 
 | Practice tab | Manage Questions tab |
 |---|---|
-| ![Practice tab](images/practice_tab.png) | ![Manage tab](images/manage_tab.png) | ![History tab](images/manage_tab.png) 
+| ![Practice tab](images/practice_tab.png) | ![Manage tab](images/manage_tab.png) | ![History tab](images/manage_tab.png) |
 
 
