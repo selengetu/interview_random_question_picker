@@ -20,7 +20,7 @@ interview_random_question_picker/
 ├── questions.json            # Live working copy (auto-generated on first run)
 ├── requirements.txt
 └── images/
-    └── app_screenshot.png    # Add your screenshots here
+    └── app_screenshot.png    
 ```
 
 ## Getting started
