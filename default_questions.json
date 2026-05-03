@@ -1,0 +1,44 @@
+{
+  "SQL": [
+    "Write a query to find the second highest salary from an employee table.",
+    "Explain the difference between INNER JOIN, LEFT JOIN, and FULL OUTER JOIN.",
+    "How would you find duplicate rows in a table?",
+    "Write a query using window functions to calculate a running total.",
+    "What is the difference between WHERE and HAVING?"
+  ],
+  "NeetCode / LeetCode": [
+    "Two Sum — given an array of integers and a target, return indices of two numbers that add up to the target.",
+    "Best Time to Buy and Sell Stock — find the maximum profit from a single buy/sell.",
+    "Valid Parentheses — determine if a string of brackets is valid.",
+    "Merge Two Sorted Lists — merge two sorted linked lists into one sorted list.",
+    "Maximum Subarray — find the contiguous subarray with the largest sum."
+  ],
+  "StrataScratch Python": [
+    "Find the top 3 highest-paid employees in each department using pandas.",
+    "Calculate the month-over-month revenue growth rate.",
+    "Given a DataFrame of user events, find users who logged in on consecutive days.",
+    "Write a pandas query to pivot a table from long to wide format.",
+    "Find the average session duration per user, excluding sessions under 30 seconds."
+  ],
+  "Data modeling": [
+    "What is the difference between a star schema and a snowflake schema?",
+    "When would you use a slowly changing dimension (SCD) Type 2 vs Type 1?",
+    "Explain the concept of grain in a fact table.",
+    "How would you model a many-to-many relationship in a data warehouse?",
+    "What are conformed dimensions and why are they important?"
+  ],
+  "System design": [
+    "Design a URL shortener like bit.ly.",
+    "How would you design a real-time analytics dashboard for millions of events per day?",
+    "Design a data pipeline to ingest and process clickstream data at scale.",
+    "How would you architect a feature store for a machine learning platform?",
+    "Design a system to detect anomalies in time-series metrics."
+  ],
+  "Behavioral": [
+    "Tell me about a time you had to work with messy or incomplete data. How did you handle it?",
+    "Describe a project where you had to communicate complex findings to a non-technical stakeholder.",
+    "Tell me about a time you disagreed with a teammate on a technical approach.",
+    "Describe a situation where you had to prioritize multiple competing deadlines.",
+    "Tell me about a time you proactively identified a problem before it became critical."
+  ]
+}
