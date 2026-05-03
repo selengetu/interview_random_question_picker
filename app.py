@@ -31,8 +31,8 @@ if "confirm_delete" not in st.session_state:
     st.session_state.confirm_delete = None
 
 # --- App layout ---
-st.set_page_config(page_title="Interview Question Picker", page_icon="🎯", layout="centered")
-st.title("🎯 Interview Question Picker")
+st.set_page_config(page_title=" Interview Question Picker", page_icon="📚", layout="centered")
+st.title("📚 Interview Question Picker")
 
 practice_tab, manage_tab, history_tab = st.tabs(["Practice", "Manage Questions", "History"])
 
